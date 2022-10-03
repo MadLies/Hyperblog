@@ -1,2 +1,4 @@
 Holiii 
 prueba para el curso de platzi
+
+Hola, soy nuevo en el mundo de la programación y me gustaría saber si este curso es bueno para empezar a aprender a programar, ya que me gustaría aprender a programar aplicaciones para Android. Gracias.
